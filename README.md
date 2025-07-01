@@ -1,4 +1,12 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Lucas Lima • noirith" title="👋 Hi there! I'm Lucas Lima • noirith"/>]
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" height="100"></td>
+      <td><h1 style="font-size: 3em; margin: 0 20px;">Lucas Lima</h1></td>
+      <td><img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" height="100"></td>
+    </tr>
+  </table>
+</div>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=noirith&color=00cf00)
 
