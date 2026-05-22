@@ -41,7 +41,7 @@
 ### 🤝 **Let's Connect**
 
 - 💡 [LinkedIn](www.linkedin.com/in/lucasrll)
-- 🌐 [Portfólio (em breve)](https://seuportfolio.com)
+- 🌐 [Portfólio (em breve)](https://lucasrl.dev)
 - 💬 Feel free to reach out here on GitHub!
 
 ---
