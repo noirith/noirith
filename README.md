@@ -1,10 +1,10 @@
-# Lucas Rodrigues Lima
+# Lucas Lima
 
 > Back-End Developer focused on scalable solutions, distributed systems, and self-hosted infrastructure.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Lucas%20Rodrigues%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20.NET%20%7C%20Linux%20%7C%20Self-Hosted%20Infrastructure&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Lucas%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20.NET%20%7C%20Linux%20%7C%20Self-Hosted%20Infrastructure&descAlignY=58&descSize=16" />
 
 </div>
 
