@@ -1,4 +1,3 @@
-# Lucas Lima
 
 > Back-End Developer focused on scalable solutions, distributed systems, and self-hosted infrastructure.
 
