@@ -134,7 +134,7 @@ Experimental NLP platform focused on sentiment and journalistic tone analysis.
 
 ---
 
-### 🏠 Homelab *(coming soon)*
+### 🏠 Homelab 
 
 Self-hosted infrastructure environment focused on automation, monitoring, AI-powered camera detection and energy management.
 
@@ -145,6 +145,8 @@ Self-hosted infrastructure environment focused on automation, monitoring, AI-pow
 - Linux
 - MQTT
 - Solar Monitoring
+
+🔗 Repository: https://github.com/noirith/homelab
 
 ---
 
