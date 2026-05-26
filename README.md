@@ -17,7 +17,7 @@
 ## 🧠 About me
 
 ```csharp
-public sealed class LucasRodrigues
+public sealed class LucasLima
 {
     public string Role => "Back-End Developer";
 
@@ -152,7 +152,7 @@ Self-hosted infrastructure environment focused on automation, monitoring, AI-pow
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasrll)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasrll)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lucasrl.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://lucasrl.dev)
 
