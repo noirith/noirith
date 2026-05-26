@@ -148,22 +148,6 @@ Self-hosted infrastructure environment focused on automation, monitoring, AI-pow
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=noirith&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noirith&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=noirith&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Connect with me
 
 <div align="center">
