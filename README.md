@@ -148,18 +148,6 @@ Self-hosted infrastructure environment focused on automation, monitoring, AI-pow
 
 ---
 
-## 🤝 Connect with me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasrll)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-lucasrl.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://lucasrl.dev)
-
-</div>
-
----
-
 <div align="center">
 
 ### “Good systems are built through curiosity, iteration and careful engineering.”
