@@ -41,6 +41,8 @@ public sealed class LucasLima
         "Sustainable Software Engineering"
     ];
 
+    public string Contact => "contact@lucasrl.dev";
+
     public string CurrentFocus =>
         "Building better systems and becoming a stronger engineer every day";
 }
